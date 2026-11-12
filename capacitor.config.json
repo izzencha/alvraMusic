@@ -1,0 +1,17 @@
+{
+  "appId": "com.alvra.music",
+  "appName": "alvraMusic",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "hostname": "alvramusic.app"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  },
+  "android": {
+    "backgroundColor": "#24104d"
+  }
+}
